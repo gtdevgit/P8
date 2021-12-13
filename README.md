@@ -2,18 +2,12 @@
 Concevez la solution technique d’un système de gestion de pizzeria
 
 ## Dossier de spécification fonctionnelles
-1.Versions
-1.Introduction
- 1. Objet du document
- 1. Références	5
- 1. Besoin du client	5
-2.3.1 - Contexte	5
-2.3.2 - Enjeux	5
-2.3.3 - Objectifs	6
-2.3.4 - Besoins exprimés par le client	6
-3 - Description générale de la solution	7
-3.1 - Les principes de fonctionnement	7
-3.2 - Les acteurs	8
+- Contexte
+- Enjeux
+- Objectifs
+- Besoins exprimés par le client
+- Description générale de la solution
+- Les acteurs
 3.3 - Les scénarios d’utilisations	10
 3.3.1 - Scénario : Acheter au comptoir	10
 3.3.2 - Scénario : Acheter par téléphone avec payement à la livraison	10
