@@ -2,9 +2,9 @@
 Concevez la solution technique d’un système de gestion de pizzeria
 
 ## Dossier de spécification fonctionnelles
-1 - Versions	4
-2 - Introduction	5
-2.1 - Objet du document	5
+1 - Versions
+2 - Introduction
+2.1 - Objet du document
 2.2 - Références	5
 2.3 - Besoin du client	5
 2.3.1 - Contexte	5
