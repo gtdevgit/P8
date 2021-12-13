@@ -8,10 +8,10 @@ Concevez la solution technique d’un système de gestion de pizzeria
 - Besoins exprimés par le client
 - Description générale de la solution
 - Les acteurs
-3.3 - Les scénarios d’utilisations	10
-3.3.1 - Scénario : Acheter au comptoir	10
-3.3.2 - Scénario : Acheter par téléphone avec payement à la livraison	10
-3.3.3 - Scénario : Connexion et création de compte client internet	11
+Les scénarios d’utilisations
+ - Scénario : Acheter au comptoir
+ - Scénario : Acheter par téléphone avec payement à la livraison
+ - Scénario : Connexion et création de compte client internet
 3.3.4 - Scénario : Acheter par internet	11
 3.3.5 - Scénario : Gérer le stock d’un point de vente	12
 3.3.6 - Scénario : Analyser le stock d’un point de vente	13
